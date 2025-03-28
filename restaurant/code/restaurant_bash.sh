@@ -1,12 +1,3 @@
-# 遗漏实验
-
-python run.py   --model_name_or_path google/gemma-2-27b   --prompt_name PROMPT_implicit_COT_V2  --num_of_shots 15
-
-sleep 15
-
-python run.py   --model_name_or_path google/gemma-2-27b   --prompt_name PROMPT_implicit_COT_V2  --num_of_shots 18
-
-sleep 15
 
 # explicit实验
 

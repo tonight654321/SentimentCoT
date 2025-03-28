@@ -122,7 +122,7 @@ ipython_config.py
 /laptop/gemma-2-9b-30tested-result/
 /laptop/llama3-8b/
 /laptop/result/
-/data/
+# /data/
 /mes/data/MES.csv
 /mes/data/MES-2.csv
 /mes/data/preprocess.py

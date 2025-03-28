@@ -1,4 +1,3 @@
-# 在\laptop\code目录下运行 python run_base.py --r_file ../data/test.xml --model_name_or_path "../../model/gemma-2b-it" --prompt_name PROMPT_standard_explicit
 import random
 import re
 import pandas as pd
@@ -42,7 +41,7 @@ def generate(num_shots, prompt, text_list, final_polarity_truth, model_name_or_p
         # 将结果添加到列表中
         results.append(generated_text)
 
-        # 提取输入和输出的索引     # 生成热力图， 随机画4*3张图
+        # 提取输入和输出的索引     
         if random.random() < 0.0:
             # 提取最后一层的输入隐藏状态
             last_input_hidden_states = hidden_states[0][-1]
@@ -70,7 +69,6 @@ def generate(num_shots, prompt, text_list, final_polarity_truth, model_name_or_p
             generate_heatmap(input_and_output_hidden_states, decoded_tokens, input_indices, output_indices,
                              output_file_figure, pol[0])
 
-    # 返回所有生成的文字结果和相关数据
     return results
 
 def extract_matching_results(generated_text, text):
@@ -138,7 +136,7 @@ def read_xml(prompt_name, file_path, n=10, shuffle_input=False):
                 if shuffle_input:
                     sentence_text = shuffle_sentence(sentence_text)
                 four_aspect_sentence.append(sentence_text)
-                four_final_polarity_truth.append([str(idx), 'positive'])  # 默认为positive
+                four_final_polarity_truth.append([str(idx), 'positive'])  
 
     sentences = one_aspect_sentence + two_aspect_sentence + three_aspect_sentence + four_aspect_sentence
     final_polarity_truth = one_final_polarity_truth + two_final_polarity_truth + three_final_polarity_truth + four_final_polarity_truth

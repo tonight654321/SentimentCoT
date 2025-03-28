@@ -1,5 +1,3 @@
-
-
 # sentiment是最终情感
 PROMPT_standard_explicit = [
     """

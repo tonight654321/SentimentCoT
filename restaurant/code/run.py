@@ -49,7 +49,7 @@ def generate(num_shots, prompt, text_list, final_polarity_truth, model_name_or_p
         # 将结果添加到列表中
         results.append(generated_text)
 
-        # 提取输入和输出的索引     # 生成热力图， 随机画4*3张图
+        # 提取输入和输出的索引     
         if random.random() < 0.0:
             # 提取最后一层的输入隐藏状态
             last_input_hidden_states = hidden_states[0][-1]
@@ -74,7 +74,6 @@ def generate(num_shots, prompt, text_list, final_polarity_truth, model_name_or_p
             generate_heatmap(input_and_output_hidden_states, decoded_tokens, input_indices, output_indices,
                              output_file_figure, pol[0])
 
-    # 返回所有生成的文字结果和相关数据
     return results
 
 
@@ -84,7 +83,7 @@ def extract_matching_results(generated_text, text):
 
     for match in matches:
         review_text = match[0].strip()
-        if review_text.startswith(text.strip()):  # 太hard了，容易识别不了
+        if review_text.startswith(text.strip()):  
             cot_text = match[1].strip()
             sentiment = match[2].strip()
             result = {

@@ -1,4 +1,3 @@
-# 在\laptop\code目录下运行 python run_base.py --r_file ../data/test.xml --model_name_or_path "../../model/gemma-2b-it" --prompt_name PROMPT_standard_explicit
 import random
 import re
 import pandas as pd

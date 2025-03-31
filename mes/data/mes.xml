@@ -1,0 +1,1674 @@
+<?xml version="1.0" ?>
+<sentences>
+    <sentence id="1">
+        <text>Why has the price of badminton rackets increased so quickly; my friends who play are already becoming fewer and fewer; I'm afraid it will be hard to find someone to play with in the future.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="loneliness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="2">
+        <text>Near the end of the workday, my boss assigned me an important task; seeing my colleagues leaving one by one, I wanted to leave too; but I was worried I wouldn't finish it by tomorrow.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="jealousy" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="3">
+        <text>The weather finally cleared up; but I have to study for my midterm exam in the library; looking at the pile of materials, I can't help but worry about tomorrow's test.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="4">
+        <text>Yesterday, during the exam, the person in front of me reeked of body odor as soon as they sat down; after three hours, I couldn't focus at all; when I left the exam room, I realized I had made some silly mistakes; but I'm glad I probably won't have to interact with that person again.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="5">
+        <text>When Tom first started studying abroad, he was in a foreign land with no one to help him; he made many jokes due to the language barrier; but eventually, through his own efforts, he adapted to the local environment and made many friends.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="loneliness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="6">
+        <text>I looked at the crowd at the subway entrance, wondering if I could squeeze onto the next train; the music in my headphones temporarily calmed me; suddenly, someone tapped me on the back; it turned out they were reminding me that my backpack zipper wasn't closed properly.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="7">
+        <text>I usually love making crafts; my parents think it's a waste of time; I have to secretly work on them to avoid their disapproval; but every time I see my work praised by people online, I feel motivated again.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="8">
+        <text>Just when I was feeling stuck with work; a cheerful song suddenly inspired me; it's a pity there's no one to share this joy with.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="loneliness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="9">
+        <text>Suddenly, someone called out my childhood nickname in a public place; my face instantly turned red, worried that others would hear; I turned around and saw it was an old friend I hadn't seen in ages.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="10">
+        <text>Busy with work and life, I hadn't contacted my friends for a long time; today, I suddenly received a call from a good old friend wanting to visit; although my heart raced a bit during the call, once we met, we chatted just as easily as we used to.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="loneliness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="11">
+        <text>Tom won a set of kitchen knives in a points lottery; when he got home and opened the package, he found the blades were dull and a bit rusty; thinking they might be low-quality recycled products with safety hazards, he threw them away.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="12">
+        <text>Tom accidentally scratched a car parked downstairs and hurried home to hide; but the more he thought about it, the more guilty he felt; so he decided to muster the courage to apologize to the car owner; the owner graciously accepted his apology.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="13">
+        <text>The noisy renovations next door finally stopped; but now the lawn mower from the downstairs property management is buzzing nonstop; I just hope it doesn't wake up my baby, who I just got to sleep.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="14">
+        <text>Tom and his friends went hiking; as they climbed, the mountain path became increasingly steep;and lacking protective gear, they slowed down; but they ultimately reached the summit before sunrise.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="15">
+        <text>I dreamt of drowning and suddenly woke up in a panic; remembering that it's the weekend and I don't have to work tomorrow, I went back to sleep peacefully; the next morning, my husband told me I was shouting for help all night.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="16">
+        <text>As a substitute player on the team, Tom rarely gets a chance to show his skills; he can only watch as the main players shine in the games; even though it's a team, he always feels a bit abandoned.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="jealousy" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="loneliness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="17">
+        <text>There are quite a few discounted vegetables at the supermarket today; but last time, I bought too much just because it was cheap and couldn't finish it, and my family scolded me; but if I miss this sale, there might not be another chance.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="18">
+        <text>As graduation approaches, I realize I haven't made any close friends; soon, I'll have to face the unknown world outside; seeing my classmates with great plans and directions, I can't help but feel uncertain about my future.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="loneliness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="jealousy" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="19">
+        <text>The project I've been leading for over a year is nearly complete and awaiting approval; today, they suddenly changed the project leader to someone else; is it just because he knows the boss.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="jealousy" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="20">
+        <text>It's my first time being this close to the ocean; it's just a pity that I spent half a month's salary on this trip; I really wish I could live here like the locals.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="jealousy" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="21">
+        <text>After being elected president by the drama club members; Tom wasn't sure if he could handle the job; but recently, successfully rehearsing a play helped him regain some confidence.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="22">
+        <text>While cleaning, I discovered a huge bug; without any tools nearby, I could only keep my distance; I quietly wondered if it would be better if someone else were here; fortunately, it flew out through the window after a while.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="loneliness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="23">
+        <text>Tom received a cute puppy for his birthday; but due to his lack of experience, he didn't know how to care for it; eventually, he neglected the pet because of his busy work schedule.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="24">
+        <text>Tom's casually uploaded video unexpectedly went viral; the comments from netizens were mixed; facing the overwhelming influx of online comments alone left him feeling lost.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="loneliness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="25">
+        <text>I recently got an internship opportunity; but as soon as I started, my supervisor kept blaming me for minor things; to keep the job, I can only silently endure it.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="26">
+        <text>While riding the bus, Tom happened to see the girl he liked; he wanted to say hello but was worried about saying the wrong thing; in the end, he just stood silently next to her, too afraid to look up.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="27">
+        <text>Over time, this wood carving craft gradually declined; as the sole heir, Tom persisted in keeping it alive; the internet era allowed this craft to be seen by more people again.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="loneliness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="28">
+        <text>After lifting dumbbells last week, my left ring finger felt off. I went to the hospital over the weekend, and the doctor said there's no problem with the bone, but the symptoms haven't improved, so I have to pause my training for now.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="29">
+        <text>Tom is a delivery driver who loves poetry but is misunderstood by those around him; whenever he immerses himself in the world of poetry, he can temporarily forget the pressures of life; however, he lacks like-minded people to discuss and share his passion with.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="loneliness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="loneliness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="30">
+        <text>Tom wore his new clothes to a restaurant; unexpectedly, they matched the staff uniform; he wondered if he should ever wear that outfit out again.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="31">
+        <text>After work, Tom discovered half a worm in the package while heating frozen food; since his parents weren't home, he decided to try cooking for himself; eventually, he found a sense of accomplishment in cooking.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="32">
+        <text>I found a long-awaited book in the library; but when I got to the counter, I realized I forgot my library card; I could only give the librarian an awkward smile.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="33">
+        <text>I've heard that staying up late often can lead to sudden death; but thinking about having to work like a dog tomorrow keeps me tossing and turning all night; the hustle and bustle of this city often make me feel out of place; in the end, I still haven't achieved the life I dreamed of as a child.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="loneliness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="34">
+        <text>Tom was invited to a friend's birthday party, and halfway through the party, he suddenly realized he forgot to bring a gift; when his friends asked about it, he had to admit that he had forgotten.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="35">
+        <text>While walking at night, Tom suddenly heard a noise in the bushes; upon closer inspection, it turned out to be a cute little cat; observing carefully, he found that the cat's leg was injured and it couldn't walk.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="36">
+        <text>Tom bought a novel he had been eagerly anticipating; as he read, his emotions rose and fell with the protagonist's fate; by the end, when he saw the conclusion of the story, he felt a sense of relief.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="37">
+        <text>As I was walking, the sky suddenly turned cloudy; remembering that I hadn't brought in the laundry, I couldn't help but quicken my pace; luckily, I made it home and got the clothes inside just before it started raining.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="38">
+        <text>Tom successfully bid on a long-desired piece of art at an auction; but he felt confused about its authenticity; later, he found out that his family opposed it, thinking it wasn't worth the price.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="39">
+        <text>It was Tom's first time cooking, and he mistakenly used sugar instead of salt; unsure of what to do, he served the dish; to her surprise, her family thought it tasted unexpectedly good.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="40">
+        <text>Tom felt feverish in the middle of the night; he tossed and turned at home but couldn't find any fever medicine; when he checked his phone, he discovered there was still a 24-hour online medicine delivery service.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="41">
+        <text>Whenever I used to share interesting stories with friends, I would always get interrupted; I gradually started thinking that no one was interested in what I had to say; over time, I stopped daring to share at all.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="loneliness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="42">
+        <text>What will the future trend of house prices be like; seeing others make a fortune from reselling houses makes me itch to try it; but the cost of investment failure is something I can't quite afford.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="jealousy" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="43">
+        <text>With students on summer break, the neighborhood has become lively; but some naughty kids are playing badminton in the parking lot; I shudder to think how dangerous it would be if a car came through.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="44">
+        <text>While traveling, Tom's bike broke down halfway; since the area was remote, he had to push it alone; luckily, he met a passing truck driver who gave him a ride to a nearby town.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="loneliness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="45">
+        <text>Tom found an unknown package on his desk; when he opened it, a toy snake jumped out; it turned out to be a prank from a good friend.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="46">
+        <text>As soon as summer vacation started, Tom made a thorough self-improvement plan; but while executing it, he was constantly interrupted by various trivial matters; now, with the vacation almost over, he realized he hadn't accomplished anything.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="47">
+        <text>Yesterday, my laptop broke down while I was gaming; I took it to the service center and found out it's still under warranty and can be repaired for free; but the manufacturer is out of parts, so it'll take a month.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="48">
+        <text>My younger brother broke the toy I borrowed from a classmate; dad blamed me for not putting my things away properly; fed up with this unfair treatment, I ran out of the house; but I realized no one came looking for me.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="jealousy" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="loneliness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="49">
+        <text>While working as a waiter in a restaurant, Tom suddenly encountered two foreign customers; he stammered out a broken &quot;Welcome&quot; in English; but to his surprise, both customers spoke Chinese.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="50">
+        <text>I've heard this miracle drug has significant side effects, but after taking it, my flu symptoms were indeed suppressed; I just don't know if my stomach can handle this kind of irritation.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="51">
+        <text>The various social interactions in college are suffocating me; I could have used this time to better myself, but instead, I wasted it on ineffective socializing; in the end, I'm still left to face everything alone.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="loneliness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="52">
+        <text>Tom walked into a newly opened restaurant and ordered a signature dish, only to find the taste and portion far below expectations; however, the free dessert and snacks were okay, but the high bill in the end was a big deterrent.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="53">
+        <text>While cleaning out his closet, Tom found a pair of pants with the tags still on; due to years of work and life stress; he realized his current size couldn't fit into them anymore.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="54">
+        <text>Due to extreme weather, the meteorological station issued a disaster warning; Tom received a notice that he didn't have to go to work; however, the work report still had to be conducted online.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="55">
+        <text>Tom recently bought a cheap and stylish piece of clothing online; but while browsing the news, he suddenly saw a report about some online clothes having excessive carcinogenic substances; he wondered if the clothes he just bought might be carcinogenic.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="56">
+        <text>Today, I finally had the tiramisu I've been craving for so long; but looking at my weight gain, I wondered why I couldn't control myself.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="57">
+        <text>Tom suddenly received a notice to work overtime just before the holiday; he had to cancel his vacation plans with his family; complaining about why he was the one on duty and not someone else.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="loneliness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="jealousy" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="58">
+        <text>Although Tom is timid, he agreed to play a haunted house game with his friends to avoid disappointing them; he kept his eyes closed the entire time; his face turned red when the staff turned on the lights at the end.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="59">
+        <text>The clothes I ordered online arrived, and I eagerly tried them on; but I found the size was wrong; I contacted the seller, who immediately replied that I could return or exchange them and offered a discount coupon; but I thought about having to wait for the delivery again for a few more days.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="60">
+        <text>I was enjoying a meal at the restaurant when I accidentally spilled oil on my clothes; what makes it worse is that the clothes are borrowed from a friend for an interview.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="61">
+        <text>Hearing my friends talk about their new promotion made me feel really uncomfortable; thinking about my recent layoff, I couldn't help but hang my head; even though we were all chatting together, I always felt like an outsider.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="jealousy" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="loneliness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="62">
+        <text>Tom has long been financially independent; but he still hasn't met the right person; his parents constantly urge him to get married soon; every time relatives ask about it, he always forces a smile and answers.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="loneliness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="63">
+        <text>Tom started refreshing his phone early to snag a ticket home for the Spring Festival travel rush; as soon as the clock struck, he paid without hesitation and got a ticket; only to realize afterward that he had booked the wrong date.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="64">
+        <text>The weather was perfect today, so I took my family for a walk in the nearby park; halfway there, I kept feeling like I forgot to turn off the gas; thinking about the fire incidents on the news, I rushed back home; in the end, it was a false alarm.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="65">
+        <text>Some time ago, my dad was diagnosed with pneumonia; for safety reasons, my mom and I had to be isolated for observation; fortunately, everything turned out fine, and my dad even quit smoking.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="66">
+        <text>Tom looked at the company's increasingly poor revenue; worried that he might lose his income despite working hard; he began to worry about his future food, clothing, and shelter.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="67">
+        <text>Tom woke up after sleeping all afternoon and found no messages on his phone; out of boredom, he turned on the TV and saw that the series he was following had new episodes; watching the sweet romance between the leads, he couldn't help but imagine himself in their place.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="loneliness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="jealousy" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="68">
+        <text>Tom fell off his bike and quickly went to a nearby hospital for a check-up; the doctor looked at the report with a serious expression; fortunately, the doctor finally told him it was just some minor scrapes.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="69">
+        <text>Tom was admiring his makeup in the window of a parked car; suddenly he noticed someone inside; he quickly apologized and hurried away.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="70">
+        <text>Tom's coffee shop business has always been bleak; seeing the constant flow of customers at nearby competitors; he began to question whether taking out a loan to open the shop was the right choice.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="jealousy" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="71">
+        <text>Tom was immediately corrected by the coach for improper form when he first started working out; fortunately, with the coach's help, he gradually improved, and seeing others' physiques nearby, Tom secretly made up his mind to work harder.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="jealousy" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="72">
+        <text>Tom once again broke his personal best record; but his attention quickly turned to the next competitor; a strong contender challenging him for the medal.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="73">
+        <text>Tom was trying on her favorite clothes in the mall when she turned around and found that her child had run off; fortunately, she found the child through an announcement; in the end, the security guard gave her a good lecture.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="74">
+        <text>I didn't make the cut for the provincial team; seeing my classmates get selected, I wondered why it wasn't me; after putting in so much effort, I question whether I should keep pursuing dance.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="jealousy" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="75">
+        <text>The movie's overall pace was tight and had a lot of funny moments; it would have been even better if I had friends to watch it with; in a bit, I'll have to walk home alone in the dark.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="loneliness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="76">
+        <text>Tom's parents missed the parent-teacher meeting due to work; during the parent-child interaction, Tom could only watch longingly as other kids interacted with their parents; fortunately, the teacher noticed and gave him a lot of candy.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="loneliness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="jealousy" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="77">
+        <text>After taking a deep breath behind the curtain, I walked onto the stage; the audience's eyes made me a bit uncomfortable; but fortunately, the performance went smoothly in the end.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="78">
+        <text>Tom offended his boss and was sent to teach in a remote county; with no one around to talk to; but whenever he saw the students' thirst for knowledge, he decided to quietly persevere.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="loneliness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="79">
+        <text>Tom and his friends were enjoying the view in a sightseeing elevator when it suddenly malfunctioned and stopped mid-air; luckily, rescue personnel arrived in time.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="80">
+        <text>When I got home, my child excitedly shared today's fun stories with me; I suddenly noticed a wound on his head; after asking, it turned out to be a prank drawn with a red marker.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="81">
+        <text>The flight is temporarily delayed due to the weather; watching the rain getting heavier outside, I started to worry about the safety of this trip; but thinking about finally seeing my boyfriend again after so long, my mood eased a bit.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="82">
+        <text>The interview is coming up, and my palms are sweating; I've heard that the interviews at this company are really strict; if I don't pass this time, I don't know how I'll face my family and friends.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="83">
+        <text>Tom was full of anticipation for his first trip abroad; but his language skills made him a bit apprehensive, and the recent news about a local shooting incident made him somewhat hesitant about the trip.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="84">
+        <text>Tom spent an entire afternoon fishing by the river without any luck; his companion beside him had already caught a full bucket; just as he was feeling frustrated, his attention was drawn to the sunset behind the clouds.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="jealousy" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="85">
+        <text>I bought a pair of Bluetooth earphones online, and the features suit me well; but the battery life is too short and they always run out of power; plus, I heard from a friend that there was a 40% off sale recently.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="jealousy" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="86">
+        <text>I managed to get tickets to my favorite singer's concert; but when I got there, I found my view was blocked by a camera; I paid the same price as everyone else but couldn't see anything; still, the singer's charisma made me completely immersed in the experience.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="jealousy" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="87">
+        <text>While traveling alone, I discovered a picturesque, hidden town; I got so engrossed that I realized I was lost; thankfully, a kind local helped me out; it's definitely safer to have someone accompany you on trips.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="loneliness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="88">
+        <text>Tom was taking home his poorly scored test paper for a signature; when he found 100 yuan on the sidewalk; he didn't know what to do with the money.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="89">
+        <text>Lying in bed, scrolling through social media and seeing others share their exciting lives; I couldn't help but look at my empty house; I wonder when my life will improve.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="jealousy" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="loneliness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="90">
+        <text>When my goggles filled with water while swimming, I panicked and flailed around; luckily, a lifeguard noticed and rescued me in time; later, I realized the water was actually very shallow, just up to my waist.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="91">
+        <text>Tom recently got his driver's license; but on his first day on the road today, he accidentally scratched someone else's car; he began to doubt if he would ever be able to drive again.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="92">
+        <text>Tom walked into a supermarket and saw his teacher there; he quickly hid in a corner, afraid to make a sound; after the teacher left, he sighed in relief, thinking he hadn't been seen; but the next day, the teacher asked him why he didn't say hello.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="93">
+        <text>The advancement of technology made Tom marvel at the convenience of life; but he also felt it was gradually distancing people from each other; and it brought a higher risk of unemployment.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="loneliness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="94">
+        <text>When the exam was handed out, I glanced at it and saw many unfamiliar question types; my mind went blank while answering them; after handing it in, I felt like I would have to retake it; but luckily, I still passed the exam in the end.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="95">
+        <text>I've been suffering from mites; recently, I tried using sulfur soap for bathing and it's been great; though it might also be related to the doctor's reminder about personal hygiene.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="96">
+        <text>I got my paycheck today; but when I opened the bills, I saw there's still the mortgage to pay; the new toy I promised to buy for my kid will have to wait again.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="97">
+        <text>In art class, Tom watched other students' works being praised by the teacher; he quietly revised his own painting; complaining about why he didn't have good talent.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="jealousy" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="loneliness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="98">
+        <text>Recently, many people have been coming to me for help, leaving me exhausted; it seems like no one ever asks how I'm doing; but as a relative, I feel too embarrassed to directly refuse.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="loneliness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="99">
+        <text>Tom bought a wristband he had long desired; but lost it not long after; over a month later, while eating at a breakfast place he hadn't visited in a long time, the staff asked if the lost wristband was his.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="100">
+        <text>Their skewers look so delicious; but I've gained a lot of weight recently; having a late-night snack might really be too bad for my health.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="jealousy" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="101">
+        <text>I volunteered at an animal shelter over the weekend; I was super nervous taking care of a stray dog for the first time; but when it licked my hand, I felt this warmth I'd never experienced before.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="102">
+        <text>I went shopping and chatting with a friend today; right before we left, they casually mentioned I'd gained some weight lately; I laughed it off, but honestly, it did bother me a little inside.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="103">
+        <text>I made plans to watch a movie with a friend, but they bailed on me last minute; so I ended up going in alone; surprisingly though, the movie turned out to be amazing.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="loneliness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="104">
+        <text>While riding the bus, a seat opened up just as I got on; but I later realized it was right by the window and the sunlight was glaring into my eyes; still, I was glad I didn't have to stand the whole way.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="105">
+        <text>I saw all my classmates getting new phones and couldn't resist ordering one myself; but I was scared my parents would find out, so I had to take out a loan; and when I finally got it, I didn't feel nearly as excited as I thought I would.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="jealousy" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="106">
+        <text>I ran into my boss in the elevator; I tried to say hi but totally messed up my words; luckily, they started chatting about the weekend game, and I finally relaxed.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="107">
+        <text>My kid cried really hard on their first day of kindergarten; after dropping them off, I worried something might go wrong at school; but when I picked them up, I found they had adjusted surprisingly well.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="108">
+        <text>I saw the last cream bun at the bakery get taken by the person in front of me; I picked something new instead and it actually tasted pretty good; though the price wasn't very friendly.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="jealousy" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="109">
+        <text>I forgot to ask for less spice when ordering takeout and the food was so spicy it made my eyes water; but weirdly, it really boosted my appetite; still, I'm a bit worried about how my stomach will handle it.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="110">
+        <text>Right before falling asleep, I suddenly remembered I might not have locked the door; I went to check and thankfully it was locked; but once back in bed, I just couldn't fall asleep again.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="111">
+        <text>At the party, I kept staring at my phone pretending to be busy; people around me were chatting and laughing in little groups; I felt like I didn't belong at all.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="jealousy" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="loneliness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="112">
+        <text>During my thesis defense, the professor suddenly asked a question I wasn't prepared for at all; I was so flustered I couldn't say a word; after stepping down, I felt too ashamed to even lift my head.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="113">
+        <text>I told a joke at the dinner table that I thought was hilarious but no one laughed; a friend quickly changed the subject to save me; I just lowered my head and awkwardly ate my food.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="114">
+        <text>I was really reluctant to help a friend babysit last-minute; but the kid turned out to be super quiet and well-behaved; they even drew me a picture to say thanks.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="115">
+        <text>It was my first time at a comic convention and the vibe totally exceeded my expectations; but the line for souvenirs was insanely crowded; overall though, it was still a great experience.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="116">
+        <text>I was happy to help the new intern at work; but she kept making mistakes and wouldn't take my advice; later she apologized and treated me to coffee, so I couldn't stay mad; but the next day, she made the same mistake again.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="117">
+        <text>I got a message from my longtime crush today; turned out it was just a mass-sent ad; I felt pretty ridiculous, honestly.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="loneliness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="118">
+        <text>I wanted to share my travel photos on social media; but after posting, I realized I picked the wrong pictures; I quickly deleted them, but some people had already seen.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="119">
+        <text>I planned to use the weekend to learn a new skill, but ended up spending the whole day watching short videos; I kept blaming myself for wasting time; but I had to admit, it was the most relaxed and happy I've felt in a while.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="120">
+        <text>The anime I've been following finally released a new episode; but they suddenly changed the ending song I really liked; still, I felt pretty satisfied overall.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="121">
+        <text>The hallway light was out; I walked up five flights in the dark; even the sound of my own footsteps made me feel like someone was following me.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="loneliness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="122">
+        <text>I wore a jacket I really liked to the class reunion; the moment I walked in, someone joked it looked like curtain fabric; the laughter drowned out the music.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="123">
+        <text>The new intern turned out to be more popular than me, everyone was laughing and chatting with him; I sat to the side filling out spreadsheets; the more I watched, the more invisible and useless I felt.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="jealousy" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="loneliness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="124">
+        <text>I hesitated for a while before finally working up the courage to bargain at a street stall; the vendor rolled their eyes at me; I forced a smile but just wanted to leave as fast as possible.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="125">
+        <text>My roommate brought a friend over without telling me; I walked out holding instant noodles and bumped right into them; they smiled and greeted me, but I just wanted to shut myself in my room and never come out.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="loneliness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="126">
+        <text>I accidentally knocked over my water bottle in the library, and it made a really loud noise; I turned around and saw everyone staring; I quickly ran out of the room.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="127">
+        <text>It was just me and a random guy in the elevator late at night; I stared at the floor numbers changing while my palms got sweaty; before it reached my floor, I got off early.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="128">
+        <text>She placed her brand new bag on the table and everyone gathered around to admire it; I quietly put away my three-year-old backpack; sipping through my straw with my head down, I said nothing.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="jealousy" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="loneliness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="129">
+        <text>As soon as I walked into the classroom, I realized everyone was already in groups; I stood hesitating at the door for a few seconds; then quietly sat in a corner in the last row where no one noticed me.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="loneliness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="130">
+        <text>The bus was nearly full and I rushed to grab the last seat; after sitting down, I noticed a woman behind me holding a baby; I looked down and tugged at my clothes awkwardly.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="131">
+        <text>The sticky notes I just bought came in such pretty colors; though the glue isn't very strong and they keep falling off, which kind of bugs me; but overall, I still really like them.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="132">
+        <text>At the end of the performance, some people clapped; then I realized the applause stopped sooner than I expected; I walked offstage a little quicker than usual.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="133">
+        <text>A friend complimented the photos I posted on my feed; just as I was about to thank her, she added “the filters are really strong though”; I froze for a second, still trying to keep smiling.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="134">
+        <text>My friend suddenly sent a voice message saying it was something urgent; I opened it to find out she just forgot the name of the dessert I like; I laughed awkwardly but felt a bit relieved.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="135">
+        <text>I opened my note app at night and found all my files were corrupted; the assignment is due tomorrow; luckily, a friend told me they still had a copy I'd sent them.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="136">
+        <text>My baby called me “mom” for the first time today; though the words were a bit unclear and I felt a little worried; I was still deeply touched.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="137">
+        <text>I was standing right in the middle in the sports day group photo; smiling the hardest; but that day, I actually came in last in the race.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="138">
+        <text>During an online meeting, my camera suddenly turned on when it was my turn to speak; the background showed my bed covered in clothes; I pretended the connection was lagging.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="139">
+        <text>A coworker sent me a “thanks for the hard work” message along with a coffee; when I tried to reply with a sticker, I accidentally sent the wrong one; and he saw it just as I was trying to delete it.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="140">
+        <text>I sent a message asking, “Wanna grab a meal together?”; she replied, “It's too late now”; I replied with a casual “haha okay”; then just stared at the chat window for a while.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="loneliness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="141">
+        <text>I was smiling as I ran during the sports event; just before the finish line, I saw someone filming with their phone; suddenly my pace slowed just a bit.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="142">
+        <text>She shared a group photo from our last event; I noticed I was half-blocked in a corner; I gave it a like and said nothing.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="loneliness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="143">
+        <text>I was standing behind her in line, debating whether to say hi; she suddenly turned and greeted someone else; the “hey” at the back of my throat quietly disappeared.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="loneliness" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="144">
+        <text>At the art exhibition, I stood in front of my own piece, watching the crowd come and go; no one stayed longer than ten seconds.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="145">
+        <text>I got called on to answer a question; after I responded, the teacher nodded and said, “Very well-organized”; but as I sat down, I heard someone behind me mimic my accent.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="146">
+        <text>It was my first time using kettlebells at the gym; I did the move correctly and even got a nod from the coach; I stood a little straighter, then caught a glimpse of my jiggling belly in the mirror.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="147">
+        <text>While waiting in line to enter the cinema, I kept checking the time and glancing around; the staff smiled and said, “You don't need to be that nervous”; I said “okay” but still didn't dare take my ticket out.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="anxiety" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="148">
+        <text>I was softly humming a tune and tiptoeing while waiting for the elevator; when the doors opened, my boss was inside; I quickly stopped smiling and looked down to press my floor button.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="fear" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="149">
+        <text>She waved at me from her new car; I smiled and gave her a thumbs up; then turned and tugged at my old, peeling bag.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="jealousy" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="150">
+        <text>My friend told me she traveled solo and took tons of amazing photos; I said “That's so cool” out loud, but deep down I felt a little bitter; I opened my own gallery and saw only a few food pics.</text>
+        <aspectTerms>
+            <aspectTerm term="None" polarity="happiness" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="jealousy" implicit_sentiment="True"/>
+            <aspectTerm term="None" polarity="shame" implicit_sentiment="True"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="None" polarity="None"/>
+        </aspectCategories>
+    </sentence>
+</sentences>

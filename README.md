@@ -1,6 +1,7 @@
 # Reassessing the Role of Chain-of-Thought in Sentiment Analysis
 
 ## ✅ Run the Main Script
+```bash
 python run.py \
     --r_file ./data/Laptop.xml \
     --model_name_or_path ../../model/gemma-2b-it \
@@ -9,6 +10,7 @@ python run.py \
     --num_of_shots 4 \
     --aspects_reverse False \
     --shuffle_input False
+```
 
 ## 📌 Argument Descriptions
 
